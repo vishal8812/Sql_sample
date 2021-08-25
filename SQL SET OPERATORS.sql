@@ -1,4 +1,5 @@
-
+create new table employee
+insert into employee(id int)
 ---WORKING WITH SET OPERATORS--
 
 CREATE TABLE EMP_PUNE(EID INT,ENAME VARCHAR(10),SALARY MONEY)
