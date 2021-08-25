@@ -47,5 +47,5 @@ SELECT * FROM EMP_MUMBAI  ---ONLY LEFT HAND SIDE ALL VALUE RETRIVED EXCEPT COMMO
 SELECT * FROM EMP_MUMBAI
 EXCEPT
 SELECT * FROM EMP_PUNE
-
+select*from EMP_pune work
 ------------------------------------------------------------------------------------------
