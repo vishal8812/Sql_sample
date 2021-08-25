@@ -1,3 +1,6 @@
+new table work(id int, name varchar(20))
+insert into work
+values(1,'vishal')
 create new table employee
 insert into employee(id int)
 ---WORKING WITH SET OPERATORS--
